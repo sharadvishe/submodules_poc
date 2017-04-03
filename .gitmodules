@@ -1,0 +1,6 @@
+[submodule "DevOps"]
+	path = DevOps
+	url = https://github.com/sharadvishe/DevOps.git
+[submodule "infrastucture_management"]
+	path = infrastucture_management
+	url = https://github.com/sharadvishe/infrastucture_management.git
